@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c21b80d2-8b84-410e-ba90-8fd21a6aa214" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/AIMS_Project/bin/hust/soict/dsai/aims/cart/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/AIMS_Project/bin/hust/soict/dsai/aims/cart/Cart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIMS_Project/bin/hust/soict/dsai/aims/store/Store.class" beforeDir="false" afterPath="$PROJECT_DIR$/AIMS_Project/bin/hust/soict/dsai/aims/store/Store.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIMS_Project/bin/hust/soict/dsai/test/cart/CartTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AIMS_Project/bin/hust/soict/dsai/test/cart/CartTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIMS_Project/src/hust/soict/dsai/aims/cart/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/AIMS_Project/src/hust/soict/dsai/aims/cart/Cart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIMS_Project/src/hust/soict/dsai/aims/store/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/AIMS_Project/src/hust/soict/dsai/aims/store/Store.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIMS_Project/src/hust/soict/dsai/test/cart/CartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AIMS_Project/src/hust/soict/dsai/test/cart/CartTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="c21b80d2-8b84-410e-ba90-8fd21a6aa214" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,11 +27,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/20221/OOPAimsProject/OOP_Aimsproject",
+    "last_opened_file_path": "D:/New folder (3)/OOP_Aimsproject",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -50,6 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669555486926</updated>
       <workItem from="1669555488448" duration="321000" />
+      <workItem from="1669557671169" duration="455000" />
     </task>
     <servers />
   </component>
