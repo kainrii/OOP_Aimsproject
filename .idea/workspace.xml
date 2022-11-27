@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c21b80d2-8b84-410e-ba90-8fd21a6aa214" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/AIMS_Project/bin/hust/soict/dsai/aims/cart/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/AIMS_Project/bin/hust/soict/dsai/aims/cart/Cart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIMS_Project/bin/hust/soict/dsai/aims/store/Store.class" beforeDir="false" afterPath="$PROJECT_DIR$/AIMS_Project/bin/hust/soict/dsai/aims/store/Store.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIMS_Project/bin/hust/soict/dsai/test/cart/CartTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AIMS_Project/bin/hust/soict/dsai/test/cart/CartTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIMS_Project/src/hust/soict/dsai/aims/cart/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/AIMS_Project/src/hust/soict/dsai/aims/cart/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIMS_Project/src/hust/soict/dsai/aims/store/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/AIMS_Project/src/hust/soict/dsai/aims/store/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIMS_Project/src/hust/soict/dsai/test/cart/CartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AIMS_Project/src/hust/soict/dsai/test/cart/CartTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2I8Fpbr7OWwveQH5bxqJBROlkcA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/20221/OOPAimsProject/OOP_Aimsproject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c21b80d2-8b84-410e-ba90-8fd21a6aa214" name="Changes" comment="" />
+      <created>1669555486926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669555486926</updated>
+      <workItem from="1669555488448" duration="321000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
